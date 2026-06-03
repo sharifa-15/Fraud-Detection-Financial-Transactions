@@ -42,6 +42,7 @@ Fraud detection is critical in the financial sector due to the high cost of fals
 ## 📂 Repository Structure
 
 Fraud-Detection-Financial-Transactions/
+
 │── notebook/fraud_detection.ipynb #Colab notebook
 
 │── dashboard/fraud_dashboard.png #Dashboard pdf
