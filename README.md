@@ -17,7 +17,7 @@ Fraud detection is critical in the financial sector due to the high cost of fals
   - Hybrid approach for anomaly detection
 - **Evaluation**: Precision‑Recall AUC, F‑beta score (β=2), confusion matrix.
 
-👉 [View Notebook](Fraud_Detection_in_FInancial.ipynb)
+👉 [View Notebook](https://github.com/sharifa-15/Fraud-Detection-Financial-Transactions/blob/main/Fraud_Detection_in_FInancial.ipynb)
 
 ---
 
@@ -31,10 +31,10 @@ Fraud detection is critical in the financial sector due to the high cost of fals
   - Fraud trends over time
   - Category & merchant analysis
   - Alert‑based fraud tables
-- **Link**: [Tableau Public Dashboard](your-tableau-link-here)
+- **Link**:  [Tableau Public Dashboard] (https://public.tableau.com/app/profile/mohammad.sharifa/viz/Creditcardfrauddetection_17804688685180/Dashboard1)
 
 ## 📊 Results
-- Predictive outputs are saved in [`results/fraud_predictions.csv`](results/fraud_predictions.csv).
+- Predictive outputs are saved in [`results/fraud_predictions.csv`](https://github.com/sharifa-15/Fraud-Detection-Financial-Transactions/blob/main/fraud_predictions%20.results.csv).
 - This file contains transaction IDs, fraud labels, and model predictions used to build the Tableau dashboard.
 
 
